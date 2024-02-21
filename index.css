@@ -1,0 +1,31 @@
+body {
+    background-color: aqua;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+input {
+    border-radius: 10px;
+    width: 300px;
+    height: 30px;
+}
+button{
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+    width: 300px;
+    height: 30px;
+
+}
+div{
+    display: flex;
+    justify-content: center;
+}
